@@ -30,7 +30,7 @@ The image below shows the initial dataframe created when the Amazon review data 
 
 The image below shows that 4 data frames created from the initial data load , these dataframes are written to the respective database tables.
 
-![Split data frames](/Resources/Split data frames.PNG)
+![Split data frames](/Resources/Split_data_frames.PNG)
 
 The image below shows the respective counts for each of the tables.
 
