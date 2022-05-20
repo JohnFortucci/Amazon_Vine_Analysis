@@ -48,4 +48,28 @@ Using PySpark determine if there is any bias towards reviews that were written a
 
 ### Results
 
+The objective is to load an initial dataset and create a dataframe contain vine and rating related fields , and perform a series of filter to determine percentage values for 5-star paid reviews versus 5-star unpaid reviews to determine if the a bias towards paid reviews.
 
+The image below shows the initial data load count.
+
+![Initial load counts](/Resources/Initial_load_count.png)
+
+The image below shows the vine data frame created from a subset of the initial dataframe fields and counts , we can see from the image the fields required and the count matches the initial data load , therefore no data have been lost in the transformation.
+
+![Initial load counts](/Resources/Vine_df_with_count.png)
+
+The image below shows the count of the data frame created after applying a filter to keep only entries with a total_votes count of greater than or equal to 20.
+
+![Filter 1](/Resources/Filter_1_count.png)
+
+The image below shows the count of the data frame created after applying a further filter to keep only entries with a where helpful_votes divided by total_votes is greater that 50%
+
+![Filter 1](/Resources/Filter_2_count.png)
+
+The image below shows the count of the dataframe created for reviews that are part of the vine program (paid reviews).
+
+![Filter 1](/Resources/Filter_vine_Y_count.png)
+
+The image below shows the count of the dataframe created for reviews that are not part of the vine program (unpaid reviews).
+
+![Filter 1](/Resources/Filter_vine_N_count.png)
