@@ -43,7 +43,7 @@ The image below shows 5 entries for each of the tables.
 ## Deliverable 2 - Determine if there is any bias for favorable reviews from Vine members.
 
 ### Overview
-
+ 
 Using PySpark determine if there is any bias towards reviews that were written as part of the Vine program from the dataset selected.
 
 ### Results
