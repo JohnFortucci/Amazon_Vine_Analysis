@@ -20,6 +20,7 @@ An AWS RDS is created , connect to the instance using pgADmin. Using create 4 ta
 
 The following tables are created via pgAdmin
 
+![pgAdmin Tables](/Resources/Tables.png)
 
 
 
