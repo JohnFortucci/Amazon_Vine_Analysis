@@ -52,7 +52,7 @@ The objective is to load an initial dataset and create a dataframe contain vine 
 
 The image below shows the initial data load count.
 
-![Initial load counts](/Resources/Initial_load_count.png)
+![Initial loadcounts](/Resources/Initial_load_count.png)
 
 The image below shows the vine data frame created from a subset of the initial dataframe fields and counts , we can see from the image the fields required and the count matches the initial data load , therefore no data have been lost in the transformation.
 
