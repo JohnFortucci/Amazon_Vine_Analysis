@@ -32,4 +32,4 @@ The image below shows 5 entries for each of the tables.
 
 ![Table counts](/Resources/Queries.PNG)
 
-## Deliverable 2 - Use Pyspark to determine if there is any bias for favorable reviews from Vine members.
+## Deliverable 2 - Determine if there is any bias for favorable reviews from Vine members.
