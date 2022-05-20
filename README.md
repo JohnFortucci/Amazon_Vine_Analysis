@@ -10,13 +10,13 @@ We will be selecting one of the datasets available and perform the following :-
 2) Use Pyspark to determine if there is any bias for favorable reviews from Vine members in the dataset.
 3) Write a written summary of the findings
 
-# Deliverable 1 - Load the data into an AWS RDS and query the data loaded.
+## Deliverable 1 - Load the data into an AWS RDS and query the data loaded.
 
-## Overview
+### Overview
 
 An AWS RDS is created , connect to the instance using pgADmin , create 4 tables and transform the Amazon review selected and instert the data in the appropriate table.
 
-## Results
+### Results
 
 The following tables are created via pgAdmin
 
