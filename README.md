@@ -22,5 +22,12 @@ The following tables are created via pgAdmin
 
 ![pgAdmin Tables](/Resources/Tables.png)
 
+Excecuting the scripts : Amazon_Reviews_ETL.ipynb to load the data into the appropriate tables.
 
+The image below shows the respective counts for each of the tables.
 
+![Table counts](/Resources/SQL_Counts.PNG)
+
+The image below shows 5 entries for each of the tables.
+
+![Table counts](/Resources/Queries.PNG)
