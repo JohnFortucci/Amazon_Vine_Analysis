@@ -26,11 +26,11 @@ Excecuting the script : Amazon_Reviews_ETL.ipynb to load the data into the appro
 
 The image below shows the initial dataframe created when the Amazon review data is loaded.
 
-![Initial DF](/Resources/initial_df.png)
+![Initial DF](/Resources/initial_df.PNG)
 
 The image below shows that 4 data frames created from the initial data load , these dataframes are written to the respective database tables.
 
-![Split data frames](/Resources/Split data frames.png)
+![Split data frames](/Resources/Split data frames.PNG)
 
 The image below shows the respective counts for each of the tables.
 
