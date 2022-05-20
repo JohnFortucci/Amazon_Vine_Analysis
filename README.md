@@ -24,6 +24,14 @@ The following tables are created via pgAdmin
 
 Excecuting the script : Amazon_Reviews_ETL.ipynb to load the data into the appropriate tables.
 
+The image below shows the initial dataframe created when the Amazon review data is loaded.
+
+![Initial DF](/Resources/initial_df.png)
+
+The image below shows that 4 data frames created from the initial data load , these dataframes are written to the respective database tables.
+
+![Split data frames](/Resources/Split data frames.png)
+
 The image below shows the respective counts for each of the tables.
 
 ![Table counts](/Resources/SQL_Counts.PNG)
