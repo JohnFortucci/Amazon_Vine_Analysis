@@ -14,7 +14,7 @@ We will be selecting one of the datasets available and perform the following :-
 
 ### Overview
 
-An AWS RDS is created , connect to the instance using pgADmin , create 4 tables and transform the Amazon review selected and instert the data in the appropriate table.
+An AWS RDS is created , connect to the instance using pgADmin. Using create 4 tables and transform the Amazon review selected and insert the data in the appropriate table , query the tables to ensure data has been loaded.
 
 ### Results
 
