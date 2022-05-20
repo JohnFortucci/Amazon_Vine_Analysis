@@ -10,7 +10,7 @@ We will be selecting one of the datasets available and perform the following :-
 2) Use Pyspark to determine if there is any bias for favorable reviews from Vine members in the dataset.
 3) Write a written summary of the findings
 
-# Deliverable 1 - Load the data into an AWS RDS and query the data loaded using Postgres.
+# Deliverable 1 - Load the data into an AWS RDS and query the data loaded.
 
 ## Overview
 
