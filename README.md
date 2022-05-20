@@ -7,7 +7,7 @@ Using the Amazin datasets we be analyzing Amazon reviews written by members of t
 We will be selecting one of the datasets available and perform the following :- 
 
 1) Load the data into an AWS RDS and query the data loaded using Postgres.
-2) Use Pyspark to determine if there is any bias for favorable reviews from Vine members in the dataset.
+2) Use Pyspark to determine if there is any bias for favorable reviews from Vine members.
 3) Write a written summary of the findings
 
 ## Deliverable 1 - Load the data into an AWS RDS and query the data loaded.
@@ -22,7 +22,7 @@ The following tables are created via pgAdmin
 
 ![pgAdmin Tables](/Resources/Tables.png)
 
-Excecuting the scripts : Amazon_Reviews_ETL.ipynb to load the data into the appropriate tables.
+Excecuting the script : Amazon_Reviews_ETL.ipynb to load the data into the appropriate tables.
 
 The image below shows the respective counts for each of the tables.
 
@@ -31,3 +31,5 @@ The image below shows the respective counts for each of the tables.
 The image below shows 5 entries for each of the tables.
 
 ![Table counts](/Resources/Queries.PNG)
+
+## Deliverable 2 - Use Pyspark to determine if there is any bias for favorable reviews from Vine members.
