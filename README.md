@@ -70,9 +70,17 @@ The image below shows the count of the dataframe created for reviews that are pa
 
 ![Filter 1](/Resources/Filter_vine_Y_count.png)
 
+The image below shows the count of the dataframe created for 5-star reviews that are part of the vine program (paid reviews).
+
+![Filter 1](/Resources/Vine_paid_5_star.png)
+
 The image below shows the count of the dataframe created for reviews that are not part of the vine program (unpaid reviews).
 
 ![Filter 1](/Resources/Filter_vine_N_count.png)
+
+The image below shows the count of the dataframe created for 5-star reviews that are not part of the vine program (unpaid reviews).
+
+![Filter 1](/Resources/Vine_unpaid_5_star.png)
 
 The image below shows the percentage of 5-star review for vine reviewers.
 
@@ -82,6 +90,8 @@ The image below shows the percentage of 5-star review for vine reviewers.
 
 ![Filter 1](/Resources/Vine_unpaid_percentage.png)
 
-### Conclusion
+### Conclusion and further analysis
 
-Using the above values in the results section , we can perfor calculation that will indicate if there is a bias towards 
+Using the above percentage values in the results section , determine that the is approximately 12% increase in 5-star paid reviews Vs unpaid reviews. This would indicate that there is a positivae bias for made as part of the vine program.
+
+It should be noted from the results section that there are many more non-vine reviews than vine reviews , this may affect that bias conclusion , therefore a further analysis that would be benificial to support the conclusion would to perform the analysis for each of the star ratings and see if the percentage comparisons provide similar percentage results.  
