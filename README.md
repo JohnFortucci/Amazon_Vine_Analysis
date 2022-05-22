@@ -73,3 +73,15 @@ The image below shows the count of the dataframe created for reviews that are pa
 The image below shows the count of the dataframe created for reviews that are not part of the vine program (unpaid reviews).
 
 ![Filter 1](/Resources/Filter_vine_N_count.png)
+
+The image below shows the percentage of 5-star review for vine reviewers.
+
+![Filter 1](/Resources/Vine_paid_percentage.png)
+
+The image below shows the percentage of 5-star review for vine reviewers.
+
+![Filter 1](/Resources/Vine_unpaid_percentage.png)
+
+### Conclusion
+
+Using the above values in the results section , we can perfor calculation that will indicate if there is a bias towards 
