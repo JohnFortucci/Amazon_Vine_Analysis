@@ -94,7 +94,9 @@ The image below shows the percentage of 5-star review for vine reviewers.
 
 ### 5-Star rating bias
 
-Using the above percentage values in the results section , we can determine that the is approximately 12% increase in 5-star paid reviews (51%) Vs unpaid reviews (39%). This would indicate that there is a positivae bias for made as part of the vine program.
+Using the above percentage values in the results section , we can determine that the is approximately 12% increase in 5-star paid reviews (51%) Vs unpaid reviews (39%). 
+
+This would indicate that there is a positivae bias as part of the vine program.
 
 ### Further Analysis
 
